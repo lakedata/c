@@ -43,7 +43,7 @@ int a=5, b=10, c;
 (10) c = (a+b,a-b); -5
 
 조건문
-if-else, if-else, if-elsief-else
+if-else, if-else, if-elseif-else
 switch
 
 반복문
@@ -54,7 +54,7 @@ do-while:조건을 만족하는 동안 반복하되, 최소 1회 반복 보장
 for: 정확한 값
 
 break: 반복문을 벗어남.
-continue: 다음 반복으ᅟᅩᆯ 넘어가면서 반복 조건을 검사
+continue: 다음 반복으로 넘어가면서 반복 조건을 검사
 
 함수
 함수 
